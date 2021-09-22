@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "semiBold";
+    src: url(../font/ExpoArabic/ExpoArabic-SemiBold.ttf)
+  }
+  
+  @font-face {
+    font-family: "regular";
+    src: url(../font/ExpoArabic/ExpoArabic-Medium.ttf);
+  }
+  
+  @font-face {
+    font-family: "bold";
+    src: url(../font/ExpoArabic/ExpoArabic-Book.ttf);
+  }
+  
+  * {
+    margin: 0px;
+    box-sizing: border-box;
+  }
+  
